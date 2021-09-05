@@ -1,0 +1,111 @@
+
+/* Header 7 newsletter */
+.newsletter{
+    padding: 100px 0px 80px 0px;
+  }
+  .newsletter-form {
+    position: relative;
+    max-width: 600px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .newsletter-form .input-newsletter {
+    display: block;
+    width: 100%;
+    border: none;
+    background-color: #eaeaea;
+    color: #080e32;
+    height: 50px;
+    padding-left: 18px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: 400;
+  }
+  .newsletter-form .default-btn {
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 50px;
+  }
+  .newsletter-form .default-btn:before {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    border-radius: 5px;
+    background-color:#fe4c1c ;
+    z-index: -1;
+    -moz-transition: .5s;
+    transition: .5s;
+  }
+  .newsletter h6{
+    display: block;
+    margin-bottom: 12px;
+    color: #fe4c1c;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 700;
+  }
+  .newsletter h4{
+    font-size: 40px;
+    font-weight: 700;
+}
+.newsletter p{
+    max-width: 600px;
+    font-size: 16px;
+    font-weight: 500;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.8;
+    margin-top: 12px;
+    color: #4b5280;
+}
+.footer{
+    background-image: url(../../assets/Images/home-banner.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 20px 0px 30px 0px;
+}
+.footer-text{
+    text-align: left;
+    color: #fff;
+}
+.footer-text h3{
+ font-size: 20px;
+ font-weight: 600;
+ padding: 30px 0px 10px 0px;
+ border-bottom: 5px solid #4b5280;
+ border-width: 3px;
+ width: 50px;
+}
+.footer-text p{
+    line-height: 30px;
+}
+.footer-text ul{
+    padding-left: 0;
+  margin-bottom: 0;
+  list-style-type: none;
+}
+.footer-text ul li{
+    margin-bottom: 13px;
+    color: #fcf4e8;
+    font-size: 16px;
+    font-weight: 400;
+}
+.footer-text ul li a{
+ color: #fff;
+}
+.footer-text ul li a:hover{
+text-decoration:none;
+}
+.newsletter{
+text-align: center;
+}
+.footer-end{
+  color: #fff;
+  padding: 20px;
+}

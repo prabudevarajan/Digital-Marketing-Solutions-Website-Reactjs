@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.page-title-area {
+  padding-bottom: 105px;
+  padding-top: 145px;
+  background-color: #3c065e;
+  text-align: center;
+  color: #fff;
+}
+.page-title-area h1 {
+  margin-bottom: 0;
+  font-weight: 700;
+
+}

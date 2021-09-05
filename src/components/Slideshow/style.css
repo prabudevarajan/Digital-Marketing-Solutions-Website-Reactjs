@@ -1,0 +1,41 @@
+.home{
+    background-image: url(../../assets/Images/home-banner.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.home .slideshow-text{
+    margin: 30px 0px 30px 0px;
+    text-align: left;
+}
+.home .slideshow-text h3{
+    color: #ffff;
+    font-size: 50px;
+    margin: 20px 0px 20px 0px;
+}
+.home .slideshow-text h6{
+    color: #ffff;
+    font-size: 22px;
+    margin: 140px 0px 10px 0px;
+}
+.home .slideshow-text p{
+    color: #ffff;
+    margin: 30px 0px 20px 0px;
+    line-height: 26px;
+}
+.home .slideshow-text .about-btn{
+    background-color: #fe4c1c;
+    border-radius: 20px;
+    padding: 12px 24px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #fff;
+}
+.home .slideshow-text .about-btn:hover{
+    background-color: #fff;
+    transition: 1s;
+    color: #000;
+}
+.home .home_img_right{
+    margin: 80px 0px 80px 0px;
+}

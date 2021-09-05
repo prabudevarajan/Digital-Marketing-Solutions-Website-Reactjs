@@ -1,0 +1,128 @@
+.contact{
+    
+}
+.contact-box {
+  margin-bottom: 30px;
+  position: relative;
+  padding-left: 100px;
+  z-index: 1;
+  box-sizing: border-box;
+  text-align: left;
+  margin-top: 50px;
+}
+
+.contact-box .icon {
+  width: 75px;
+  height: 85px;
+  background-color: #f7f7f7;
+  border-radius: 3px;
+  text-align: center;
+  font-size: 40px;
+  color: #fe4c1c;
+  -moz-transition: 0.5s;
+  transition: 0.5s;
+}
+.contact-box .icon,
+.contact-box .icon i {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.contact-box h3 {
+  margin-bottom: 10px;
+  font-size: 22px;
+  font-weight: 600;
+  color: #080e32;
+  text-transform:capitalize;
+  margin: 0 0 5px 0;
+}
+.contact-box p {
+    line-height: 1.8;
+    margin-top: 12px;
+    color: #4b5280;
+}
+.contact-header{
+    padding: 80px 0px 20px 0px;
+}
+.contact-header h6{
+    display: block;
+    margin-bottom: 12px;
+    color: #fe4c1c;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 700;
+    text-align: center;
+}
+.contact-header h4{
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+}
+.contact-header p{
+    max-width: 600px;
+    font-size: 16px;
+    font-weight: 500;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.8;
+    margin-top: 12px;
+    color: #4b5280;
+    text-align: center;
+}
+.contact-form {
+    margin-left: 0;
+    margin-top: 30px;
+    padding: 40px;
+    margin-left: 15px;
+    box-shadow: 0 0 20px hsl(0deg 0% 62% / 16%);
+    background-color: #fff;
+}
+.form-control {
+    height: 50px;
+    color: #080e32;
+    box-shadow: unset!important;
+    border: 1px solid #f5f5f5;
+    background-color: #f5f5f5;
+    -moz-transition: 0.5s;
+    transition: 0.5s;
+    border-radius: 3px;
+    padding: 1px 0 0 15px;
+    font-size: 16px;
+    font-weight: 600;
+}
+.input-newsletter {
+    display: block;
+    width: 100%;
+    border: none;
+    background-color: #eaeaea;
+    color: #080e32;
+    height: 50px;
+    padding-left: 18px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: 400;
+  }
+  .map-style{
+    border:1px ;
+    padding: 0;
+    margin: 0px;
+  }
+  .contact-box:hover .icon{
+    background-color: #fe4c1c;
+    border-radius: 3px;
+    text-align: center;
+    font-size: 40px;
+    color: #fff;
+   
+  }
+  .contact-box:hover{
+    box-shadow: 0 15px 35px rgb(0 0 0 / 10%);
+    -webkit-transform: translateY(-10px);
+    -moz-transform: translateY(-10px);
+    transform: translateY(-10px);
+    transition: 1s;
+  }
