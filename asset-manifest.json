@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Digital-Marketing-Solutions-Website-Reactjs/static/css/main.de557665.chunk.css",
+    "main.js": "/Digital-Marketing-Solutions-Website-Reactjs/static/js/main.4704a012.chunk.js",
+    "main.js.map": "/Digital-Marketing-Solutions-Website-Reactjs/static/js/main.4704a012.chunk.js.map",
+    "runtime-main.js": "/Digital-Marketing-Solutions-Website-Reactjs/static/js/runtime-main.1be61ebd.js",
+    "runtime-main.js.map": "/Digital-Marketing-Solutions-Website-Reactjs/static/js/runtime-main.1be61ebd.js.map",
+    "static/css/2.ef9168ec.chunk.css": "/Digital-Marketing-Solutions-Website-Reactjs/static/css/2.ef9168ec.chunk.css",
+    "static/js/2.a1d9849b.chunk.js": "/Digital-Marketing-Solutions-Website-Reactjs/static/js/2.a1d9849b.chunk.js",
+    "static/js/2.a1d9849b.chunk.js.map": "/Digital-Marketing-Solutions-Website-Reactjs/static/js/2.a1d9849b.chunk.js.map",
+    "static/js/3.1652182d.chunk.js": "/Digital-Marketing-Solutions-Website-Reactjs/static/js/3.1652182d.chunk.js",
+    "static/js/3.1652182d.chunk.js.map": "/Digital-Marketing-Solutions-Website-Reactjs/static/js/3.1652182d.chunk.js.map",
+    "index.html": "/Digital-Marketing-Solutions-Website-Reactjs/index.html",
+    "static/css/2.ef9168ec.chunk.css.map": "/Digital-Marketing-Solutions-Website-Reactjs/static/css/2.ef9168ec.chunk.css.map",
+    "static/css/main.de557665.chunk.css.map": "/Digital-Marketing-Solutions-Website-Reactjs/static/css/main.de557665.chunk.css.map",
+    "static/js/2.a1d9849b.chunk.js.LICENSE.txt": "/Digital-Marketing-Solutions-Website-Reactjs/static/js/2.a1d9849b.chunk.js.LICENSE.txt",
+    "static/media/Home-page-right.2217b882.jpg": "/Digital-Marketing-Solutions-Website-Reactjs/static/media/Home-page-right.2217b882.jpg",
+    "static/media/about-us.6a70699a.jpg": "/Digital-Marketing-Solutions-Website-Reactjs/static/media/about-us.6a70699a.jpg",
+    "static/media/cntact-img.9a1ed834.jpg": "/Digital-Marketing-Solutions-Website-Reactjs/static/media/cntact-img.9a1ed834.jpg",
+    "static/media/style.css": "/Digital-Marketing-Solutions-Website-Reactjs/static/media/test.ad91c943.jpg",
+    "static/media/team_1.7059cec3.jpg": "/Digital-Marketing-Solutions-Website-Reactjs/static/media/team_1.7059cec3.jpg",
+    "static/media/team_2.3e0d0ce2.jpg": "/Digital-Marketing-Solutions-Website-Reactjs/static/media/team_2.3e0d0ce2.jpg",
+    "static/media/team_3.9568942c.jpg": "/Digital-Marketing-Solutions-Website-Reactjs/static/media/team_3.9568942c.jpg",
+    "static/media/team_4.568b3d36.jpg": "/Digital-Marketing-Solutions-Website-Reactjs/static/media/team_4.568b3d36.jpg",
+    "static/media/team_5.9dc82c71.jpg": "/Digital-Marketing-Solutions-Website-Reactjs/static/media/team_5.9dc82c71.jpg",
+    "static/media/team_6.c396e294.jpg": "/Digital-Marketing-Solutions-Website-Reactjs/static/media/team_6.c396e294.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1be61ebd.js",
+    "static/css/2.ef9168ec.chunk.css",
+    "static/js/2.a1d9849b.chunk.js",
+    "static/css/main.de557665.chunk.css",
+    "static/js/main.4704a012.chunk.js"
+  ]
+}
