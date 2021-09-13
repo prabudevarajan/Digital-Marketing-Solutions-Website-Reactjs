@@ -1,5 +1,6 @@
 {
-  "name": "website-demo4",
+  "homepage": "https://prabudevarajan.github.io/Digital-Marketing-Solutions-Website-Reactjs/",
+  "name": "digital-marketing-solutions-website-reactjs",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,6 +13,7 @@
     "@testing-library/user-event": "^12.8.3",
     "bootstrap": "^4.6.0",
     "font-awesome": "^4.7.0",
+    "gh-pages": "^3.2.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-icons": "^4.2.0",
@@ -20,6 +22,8 @@
     "web-vitals": "^1.1.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
